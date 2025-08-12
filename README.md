@@ -6,5 +6,5 @@ Project inspired and using parts of code from Chapter 2 of "Hands On Machine Lea
 Concepts and methods used:  
 - Data analysis and cleaning  
 - Pipeline to scale, encode and prepare the data  
-- Model training and selection, cross validation, Grid search method  
+- Model training and selection, cross validation, Grid search method on Linear Regression, Decision Trees, and Random Forests
 - Evaluation on test set
